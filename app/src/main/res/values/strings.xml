@@ -1,0 +1,88 @@
+<resources>
+    <string name="app_name">Unit Converter</string>
+    <string name="welcome">Welcome</string>
+    <string name="user">Emmanuel Snr.</string>
+    <string name="time_image">Time Image</string>
+    <string name="time">Time</string>
+    <string name="length_image">Length Image</string>
+    <string name="length">Length</string>
+    <string name="data_image">Data Image</string>
+    <string name="data">Data</string>
+    <string name="weight_image">Weight Image</string>
+    <string name="weight">Weight</string>
+    <string name="volume_image">Volume Image</string>
+    <string name="volume">Volume</string>
+    <string name="temperature_image">Temperature Image</string>
+    <string name="temperature">Temperature</string>
+
+    <string name="second">Second (s)</string>
+<!--    <string>Minute (m)</string>-->
+<!--    <string>Hour (hr)</string>-->
+<!--    <string>Day (D)</string>-->
+<!--    <string>Week (W)</string>-->
+<!--    <string>Month (M)</string>-->
+
+    <!--TEMPERATURE UNITS-->
+    <string-array name="temperature">
+        <item>Celsius (<sup>o</sup>C)</item>
+        <item>Fahrenheit (<sup>o</sup>F)</item>
+        <item>Kelvin (K)</item>
+    </string-array>
+
+    <!--VOLUME UNITS-->
+    <string-array name="volume">
+        <item>Litre (l)</item>
+        <item>Centilitre (cl)</item>
+        <item>Millilitre (ml)</item>
+        <item>Cubic meter (m<sup>3</sup>)</item>
+    </string-array>
+
+    <!--LENGTH UNITS-->
+    <string-array name="length">
+        <item>Meter (m)</item>
+        <item>Centimeter (cm)</item>
+        <item>Feet (ft)</item>
+        <item>Inches (in)</item>
+    </string-array>
+
+    <!--TIME UNITS-->
+    <string-array name="time">
+        <item>Second (s)</item>
+        <item>Minute (m)</item>
+        <item>Hour (hr)</item>
+        <item>Day (D)</item>
+        <item>Week (W)</item>
+        <item>Month (M)</item>
+    </string-array>
+
+    <!--MASS UNITS-->
+    <string-array name="mass">
+        <item>Carat (ct)</item>
+        <item>Pound (lb)</item>
+        <item>Tonne (t)</item>
+        <item>Kilogram (kg)</item>
+        <item>Gram (g)</item>
+        <item>Ounce (oz)</item>
+    </string-array>
+
+    <!--DATA UNITS-->
+    <string-array name="data">
+        <item>Byte (B)</item>
+        <item>Kilobyte (KB)</item>
+        <item>Megabyte (MB)</item>
+        <item>Gigabyte (GB)</item>
+        <item>Terabyte (TB)</item>
+        <item>Petabyte (PB)</item>
+    </string-array>
+
+    <!--AREA UNITS-->
+    <!--    <string-array name="area">-->
+    <!--        <item>Square Meter (m<sup>2</sup>)</item>-->
+    <!--        <item>Square Decimeter (dm<sup>2</sup>)</item>-->
+    <!--        <item>Square Centimeter (cm<sup>2</sup>)</item>-->
+    <!--        <item>Square Millimeter (mm<sup>2</sup>)</item>-->
+    <!--        <item>Square Yard (yd<sup>2</sup>)</item>-->
+    <!--        <item>Square Foot (ft<sup>2</sup>)</item>-->
+    <!--    </string-array>-->
+
+</resources>
